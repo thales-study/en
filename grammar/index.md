@@ -15,5 +15,6 @@ Pearson Brown
 * [Past Continuous (过去进行时)](./past-continuous.md)
 * [Past simple or Continuous (一般过去时还是过去进行时)](./past-simple-continuous.md)
 * [Irregular Verb (不规则动词)](./irregular-verb.md)
-
+* [Present Perfect (现在完成时)](./present-perfect.md)
+* [Present Perfect Continuous (现在完成进行时)](./present-perfect-continuous.md)
 
