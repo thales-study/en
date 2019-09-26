@@ -10,11 +10,14 @@ Pearson Brown
 
 * [Present Continuous (现在进行时)](./present-continuous.md)
 * [Present Simple (一般现在时)](./present-simple.md)
-* [Present Simple or Continuous (一般现在时还是现在进行时)](./present-simple-or-continuous.md)
+* [Present Simple or Continuous (一般现在时或现在进行时)](./present-simple-or-continuous.md)
 * [Past Simple (一般过去时)](./past-simple.md)
 * [Past Continuous (过去进行时)](./past-continuous.md)
-* [Past simple or Continuous (一般过去时还是过去进行时)](./past-simple-continuous.md)
+* [Past simple or Continuous (一般过去时或过去进行时)](./past-simple-continuous.md)
 * [Irregular Verb (不规则动词)](./irregular-verb.md)
 * [Present Perfect (现在完成时)](./present-perfect.md)
 * [Present Perfect Continuous (现在完成进行时)](./present-perfect-continuous.md)
-
+* [Present Perfect Simple or Continuous (现在完成进行时)](./present-perfect-simple-or-continuous.md)
+* [Present Perfect or Past Simple (现在完成时或一般过去时)](./present-perfect-or-past-simple.md)
+* [Past Perfect (过去完成时)](./past-perfect.md)
+* [Past Perfect Continuous (过去完成进行时)](./past-perfect-continuous.md)
