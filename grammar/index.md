@@ -21,3 +21,6 @@ Pearson Brown
 * [Present Perfect or Past Simple (现在完成时或一般过去时)](./present-perfect-or-past-simple.md)
 * [Past Perfect (过去完成时)](./past-perfect.md)
 * [Past Perfect Continuous (过去完成进行时)](./past-perfect-continuous.md)
+* [Past Review (过去时回顾)](./past-review.md)
+* [The Future - Going to (将来时，going to)](./the-future-going-to.md)
+* [The Future - will (将来时，will)](./the-future-will.md)

@@ -1,8 +1,15 @@
 # Past Simple
+一般过去时
 
 
 ## We use the past simple to talk about actions and states which we see as completed in the past.
+我们使用一般过去时表述过去已经完成的行为和状态
+
+
 ## We can use it to talk about a specific point in time.
+我们可以在表述详细的时间点时候使用它
+
+
 * She came back last Friday.
 * I saw her in the street.
 * They didn't agree to the deal.
@@ -13,6 +20,9 @@
 
 
 ## You will often find the past simple used with time expressions such as these:
+你将常常在一般过去时中看到时间表达式比如下面这些：
+
+
 * Yesterday
 * three weeks ago
 * last year
