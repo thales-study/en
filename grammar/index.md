@@ -24,3 +24,5 @@ Pearson Brown
 * [Past Review (过去时回顾)](./past-review.md)
 * [The Future - Going to (将来时，going to)](./the-future-going-to.md)
 * [The Future - will (将来时，will)](./the-future-will.md)
+* [Will or Going to (will和going to)](./will-or-going-to.md)
+* [The Future Present Forms (将来时现在时态)](./the-future-present-forms.md)
